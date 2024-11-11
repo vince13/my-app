@@ -1,0 +1,12 @@
+- pip install streamlit
+- import streamlit as st
+
+- Write the the streamlit methods
+
+- Run the app: streamlit run app.py
+
+
+
+
+
+---------------requirements.txt-----------------
