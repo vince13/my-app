@@ -1,0 +1,17 @@
+GitHub COMMANDS
+# Install git: git.com
+
+# In the terminal
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/username/repo_name
+git push -u origin master
+
+
+Hugging Face COMMANDS
+# In the terminal
+git init
+git add .
+git commit -m "Add application files"
+git push
